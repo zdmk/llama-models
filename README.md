@@ -1,5 +1,8 @@
 # llama-models
 
+## Python
+https://drive.google.com/file/d/10MMg_DzO5Qu1PZGpFGkfoWP7wL0pZezx/view?usp=drive_link  
+
 ## Models
 https://drive.google.com/file/d/1dgPPRmK-6JXGVjcil_Xy-IvGHttXn8mc/view?usp=drive_link  
 https://drive.google.com/file/d/1CeSD9a3G9m2V5I9cj9iEiFJgT7yWKnqp/view?usp=drive_link  
